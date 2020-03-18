@@ -13,7 +13,7 @@
 # elif film_rating.lower() == "12" or film_rating == "12a":
 #     print("Films classified 12A and video works classified 12 contain material that is ")
 # elif film_rating.lower() == "15":
-#     print("No one younger than 15 may watch this movie")
+#     rint("No one younger than 15 may watch this movie")
 # elif film_rating.lower() == "18":
 #     print(" No one younger than 18 may watch this movie")
 #
