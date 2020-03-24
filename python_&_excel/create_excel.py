@@ -1,7 +1,17 @@
+# # This lesson includes
+# Introduction to the openpyxl and xlsxwriter libraries
+# Using xlsxwriter to create and wrtie to excel files
+# Using openpyxl to read from excel files and utilised the data as per the business needs
+# Openpyxl and xlsxwriter are standard in python/excel areas and although there are others,
+# of which you are free to investigate we will be focusing on this library.
+
 # step 1 -  install openpyxl and xlsxwriter
 # click on terminal at the bottom of your pycharm
 # type - pip install openpyxl
 # type - pip install xlsxwriter
+
+# Note: Throughout XlsxWriter, rows and columns are zero indexed. 
+# The first cell in a worksheet, A1 is (0, 0), B1 is (0, 1), A2 is (1, 0), B2 is (1, 1) ..similarly for all.
 
 # Let's create our first file of excel using python
 #
